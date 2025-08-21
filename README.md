@@ -1,11 +1,13 @@
 ## Frank wandera
 Nairobi,Kenya
+-🔭Currently working on git and similar 
+
 <!--
-**frank19-k/frank19-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Im currently working on building websites
+-  I’m currently working on ...Im currently working on building websites
 - 🌱 I’m currently learning ...Im currently taking computer programmming and information technology
 - 👯 I’m looking to collaborate on ...similar fields mentioned above.
 - 🤔 I’m looking for help with ...
